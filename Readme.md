@@ -1,4 +1,4 @@
-<<<<<<< Updated upstream
+
 # Weather Station
 
 ## Description
@@ -70,4 +70,3 @@ The code for the project can be found in the `src` directory.
 ## Contributing
 
 If you would like to contribute to this project, please fork the repository and submit a pull request.
->>>>>>> Stashed changes
